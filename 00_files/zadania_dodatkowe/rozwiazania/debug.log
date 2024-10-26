@@ -1,0 +1,5 @@
+2024-06-01 12:00:00 INFO User login: user123
+2024-06-01 12:05:00 ERROR Failed to connect to database
+2024-06-01 12:10:00 INFO Data processing started
+2024-06-01 12:15:00 WARNING Low disk space
+2024-06-01 12:20:00 INFO Data processing completed
