@@ -1,0 +1,30 @@
+{
+    "highest_revenue_product": {
+        "product_id": 1,
+        "name": "Laptop",
+        "category": "Electronics",
+        "price": 1200,
+        "units_sold": 30,
+        "revenue": 36000
+    },
+    "total_revenue": 89250,
+    "average_price": 301.0,
+    "high_revenue_products": [
+        {
+            "product_id": 1,
+            "name": "Laptop",
+            "category": "Electronics",
+            "price": 1200,
+            "units_sold": 30,
+            "revenue": 36000
+        },
+        {
+            "product_id": 2,
+            "name": "Headphones",
+            "category": "Electronics",
+            "price": 150,
+            "units_sold": 200,
+            "revenue": 30000
+        }
+    ]
+}
